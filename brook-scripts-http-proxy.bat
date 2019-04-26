@@ -1,0 +1,1 @@
+C:\brook\brook_windows_amd64.exe client -l 127.0.0.1:1080 -i 127.0.0.1 -s 103.124.104.21:33456 -p ntdtv.com --http
